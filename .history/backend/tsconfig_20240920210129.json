@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "jsx": "react", // or "react-jsx" for React 17+
+    "allowJs": true,
+    "checkJs": true,
+    "moduleResolution": "node",
+    // other options...
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

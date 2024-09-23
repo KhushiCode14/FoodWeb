@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bgBack{
+  background-image: url(../src/components/images/background.svg);
+}
+.bgSignUp{
+  background-image:url(../src/components/images/signUpBg.jpeg);
+}
+.SignUpShadow{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}

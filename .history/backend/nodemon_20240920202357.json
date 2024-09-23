@@ -1,0 +1,10 @@
+{
+  "watch": ["src"],
+  "ext": "ts",
+  "exec": "ts-node src/index.ts"
+}
+
+
+// watch: Tells nodemon to watch the src directory for changes.
+// ext: Specifies that we want to watch .ts (TypeScript) files.
+// exec: Runs the ts-node command to execute the src/index.ts file.

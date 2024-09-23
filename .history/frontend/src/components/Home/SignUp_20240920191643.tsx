@@ -1,0 +1,18 @@
+
+
+const SignUp = () => {
+  return (
+    <div className="bg-inherit">
+ <form className="flex">
+ <label htmlFor="firstname">Firstname:</label>
+ <input type="text" id="firstname" placeholder="Enter your name" />
+ <label htmlFor="firstname">Firstname:</label>
+ <input type="text" id="firstname" placeholder="Enter your name" />
+
+  <button type="submit">Sign Up</button>
+ </form>
+    </div>
+  )
+}
+
+export default SignUp
