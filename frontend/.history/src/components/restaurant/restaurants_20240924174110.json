@@ -1,0 +1,74 @@
+{
+  "foods": [
+    {
+      "name": "Margherita Pizza",
+      "type": "Vegetarian",
+      "ranking": 4.8,
+      "image": "https://example.com/images/margherita-pizza.jpg",
+      "preparation_time": "30 minutes"
+    },
+    {
+      "name": "Chicken Biryani",
+      "type": "Non-Vegetarian",
+      "ranking": 4.9,
+      "image": "https://example.com/images/chicken-biryani.jpg",
+      "preparation_time": "1 hour"
+    },
+    {
+      "name": "Paneer Tikka",
+      "type": "Vegetarian",
+      "ranking": 4.7,
+      "image": "https://example.com/images/paneer-tikka.jpg",
+      "preparation_time": "45 minutes"
+    },
+    {
+      "name": "Grilled Salmon",
+      "type": "Non-Vegetarian",
+      "ranking": 4.6,
+      "image": "https://example.com/images/grilled-salmon.jpg",
+      "preparation_time": "25 minutes"
+    },
+    {
+      "name": "Vegetable Stir Fry",
+      "type": "Vegetarian",
+      "ranking": 4.5,
+      "image": "https://example.com/images/vegetable-stir-fry.jpg",
+      "preparation_time": "20 minutes"
+    },
+    {
+      "name": "Beef Steak",
+      "type": "Non-Vegetarian",
+      "ranking": 4.8,
+      "image": "https://example.com/images/beef-steak.jpg",
+      "preparation_time": "50 minutes"
+    },
+    {
+      "name": "Falafel",
+      "type": "Vegetarian",
+      "ranking": 4.4,
+      "image": "https://example.com/images/falafel.jpg",
+      "preparation_time": "35 minutes"
+    },
+    {
+      "name": "Shrimp Pasta",
+      "type": "Non-Vegetarian",
+      "ranking": 4.7,
+      "image": "https://example.com/images/shrimp-pasta.jpg",
+      "preparation_time": "40 minutes"
+    },
+    {
+      "name": "Veg Burger",
+      "type": "Vegetarian",
+      "ranking": 4.3,
+      "image": "https://example.com/images/veg-burger.jpg",
+      "preparation_time": "15 minutes"
+    },
+    {
+      "name": "Lamb Curry",
+      "type": "Non-Vegetarian",
+      "ranking": 4.9,
+      "image": "https://example.com/images/lamb-curry.jpg",
+      "preparation_time": "1 hour 20 minutes"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+// node js update kaise kare
+// <-- node update -->
+// npm update <package name >
+// console based
+//  console.log("hello world");
+
+// web based or application based
+
+// http method 
+
+
+
+const express = require('express');
+const app = express()
+// http method
+app.get('/',function (req, res){
+  res.send('Hello World!')
+})
+
+app.listen(3001)
